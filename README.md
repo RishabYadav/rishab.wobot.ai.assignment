@@ -5,7 +5,7 @@
 # STEP-2 To install dependencies run:
 npm install/npm i
 
-#To start the project run:
--> npm start
+# STEP-3 To start the project run:
+npm start
 -> webpage will open on the default port
- C
+ 
