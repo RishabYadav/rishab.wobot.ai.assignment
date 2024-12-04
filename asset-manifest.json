@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RishabYadav/rishab.wobot.ai.assignment/static/css/main.cb73684c.css",
+    "main.js": "/RishabYadav/rishab.wobot.ai.assignment/static/js/main.86cbe2f1.js",
+    "static/media/wobotailogo.png": "/RishabYadav/rishab.wobot.ai.assignment/static/media/wobotailogo.d638bcb46c88801683a7.png",
+    "index.html": "/RishabYadav/rishab.wobot.ai.assignment/index.html",
+    "main.cb73684c.css.map": "/RishabYadav/rishab.wobot.ai.assignment/static/css/main.cb73684c.css.map",
+    "main.86cbe2f1.js.map": "/RishabYadav/rishab.wobot.ai.assignment/static/js/main.86cbe2f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb73684c.css",
+    "static/js/main.86cbe2f1.js"
+  ]
+}
