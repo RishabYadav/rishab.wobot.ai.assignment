@@ -4,6 +4,8 @@ import Dashboard from './pages/Dashboard'
 import Navbar from './components/Navbar'
 import Pagenotfound from "./pages/Pagenotfound"
 
+
+
 export default function App() {
   return (
     <div>
@@ -11,7 +13,9 @@ export default function App() {
         <Navbar />
         <Routes>
           <Route path='/' element={<Dashboard />} />
-          <Route path='*' element={<Pagenotfound />} />
+          <Route path='*' element={<Pagenotfound />} /> 
+
+
         </Routes>
       </BrowserRouter>
     </div>
